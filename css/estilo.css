@@ -1,0 +1,164 @@
+/*********MENU********/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #ccc;
+  font-family: monospace;
+}
+#area-cabecalho a {
+  text-decoration: none;
+  padding: 15px;
+  color: black;
+}
+
+h1 {
+  font-family: monospace;
+}
+
+h3 {
+  color: #565656;
+  background: #ccc;
+  padding: 5px;
+}
+
+#area-cabecalho a:hover {
+  color: yellow;
+  background-color: black;
+}
+
+#area-cabecalho {
+  background-color: yellow;
+}
+
+#area-menu {
+  font-family: monospace;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+#area-pricipal {
+  width: 920px;
+  padding: 10px;
+  margin: 0px auto;
+}
+
+#area-pricipal-catalogos {
+  width: 1280;
+  padding: 10px;
+  margin: 0px auto;
+}
+
+#conteudo-post {
+  width: 660px;
+  float: left;
+}
+
+#area-lateral a:hover {
+  text-decoration: underline;
+  color: yellow;
+}
+
+#area-lateral {
+  width: 220px;
+  float: right;
+  font-size: 14px;
+}
+
+.background-post {
+  border: 2px solid black;
+  margin: 20px;
+}
+
+#area-catalogos-snb{
+  padding: 10px;
+  margin: 25px;
+  text-align: center;
+}
+
+#area-catalogos-volvo {
+  padding: 10px;
+  margin: 25px;
+  text-align: center;
+}
+
+#area-catalogos-randon {
+  padding: 10px;
+  margin: 25px;
+  text-align: center;
+}
+
+
+#area-catalogos-snb a {
+  border: 2px solid green;
+}
+
+#area-catalogos-volvo a {
+  border: 2px solid wheat;
+}
+
+#area-catalogos-randon a {
+  border: 2px solid orange;
+}
+
+
+#area-link-modelos a {
+  padding: 25px 25px;
+  margin: 15px;
+  color: #565656;
+
+  font-size: 1.4em;
+}
+
+#area-link-modelos a:hover {
+  background-color: black;
+  color: white;
+}
+
+.snb {
+  text-align: left;
+  border: 1px solid black;
+}
+
+.conteudo-lateral {
+  background-color: white;
+  padding: 10px;
+}
+
+.post {
+  background-color: white;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.post h2 {
+  color: #565656;
+  background: #ccc;
+}
+
+.postagem {
+  padding: 10px;
+  border: 1 px solid yellow;
+}
+
+.borda {
+  margin: 10px;
+}
+
+#area-rodape {
+  padding: 15px;
+}
+
+#rodape {
+  clear: both;
+  padding: 15px;
+
+  text-align: center;
+}
